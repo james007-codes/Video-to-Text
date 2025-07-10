@@ -1,5 +1,5 @@
 
-Step 1: Start by converting your video, which you can name anything you like, into an .mp3 file. 
+Step 1: Start by converting your video, which you can name input.mp4, into an .mp3 file. 
 
 Step 2: Harness the power of OpenAI's Whisper to effortlessly convert your audio into text. It’s incredibly straightforward! This repository is just a glimpse into the larger project, Next Vision, with exciting updates on the horizon!
 
